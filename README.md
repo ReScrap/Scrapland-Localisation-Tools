@@ -11,7 +11,7 @@ This is what these tools are for.
 ### HOW TO SETUP
 - Make sure you have Python 3 installed on your system [https://www.python.org/](https://www.python.org/)
 - Checkout this Repository using [git](https://git-scm.com/downloads)
-- **or** Download [decode.py](decode.py) and [encode.py](encode.py) separately  
+- **or** Download [functions.py](functions.py), then [decode.py](decode.py) and [encode.py](encode.py) separately  
 *(Click on "Raw" and then use your browsers "Save Page as" function)*
 
 ### HOW TO USE
