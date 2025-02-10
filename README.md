@@ -1,5 +1,8 @@
 # SCRAPLAND LOCALISATION TOOLS
 
+**DEPRECATED!**
+Use [Localizer](https://github.com/ReScrap/Localizer) instead!
+
 The Scrapland localisation files are located in the `Scrapland\Language` folder. You can easily mod them, but only if lines are written with ASCII characters. 
 
 The Problem starts when non-ASCII characters are used in your language. Characters are presented by their UTF-16BE (Big Endian) HEX value with a `0x01` byte at the start of every character.
